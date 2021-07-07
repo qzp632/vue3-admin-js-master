@@ -1,6 +1,7 @@
 <template>
   <div id="nav">
-    <router-link to="/">Home</router-link> |
+    <router-link to="/">Home11ssd</router-link> |
+    <span>1111111</span>
     <router-link to="/about">About</router-link>
   </div>
   <router-view />
